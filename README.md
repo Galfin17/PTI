@@ -1,2 +1,2 @@
 # PTI
-##Trip Pangandaran by Atila
+Trip Pangandaran by Atila
