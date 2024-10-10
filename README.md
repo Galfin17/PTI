@@ -1,4 +1,4 @@
-#<<<<<<< Naufal
+# Naufal
 #Plan Dari Naufal
 
 #Latar Belakang
@@ -8,14 +8,14 @@
 #dari bandung kita menuju Banjaran, lanjut ke pangalengan, habis itu langsung menuju Pangandaran
 #=======
 # PTI
-#<<<<<<< Atila
+# Atila
 #Trip Pangandaran by Atila
 #=======
 
-#<<<<<<< Iyang
+# Iyang
 #dari bandung saya akan melewati padalarang dan akan memasuki tol padaleunyi
 #=======
-# Iqbal Note
+# Iqbal 
 
 #Tutor ke Pangandaran
 
