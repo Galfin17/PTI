@@ -1,1 +1,8 @@
+#Iyang
 
+<?php
+$numbers = range(1, 100);
+foreach ($numbers as $number) {
+    echo $number . "<br>";
+}
+?>
