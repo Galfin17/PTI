@@ -1,6 +1,23 @@
 # PTI
 
-# Iqbal Note
+# Naufal
+#Plan Dari Naufal
+
+#Latar Belakang
+#menentukan rute terbaik dari Bandung-Pangandaran menggunakan sepeda motor
+
+#Eksekusi
+#dari bandung kita menuju Banjaran, lanjut ke pangalengan, habis itu langsung menuju Pangandaran
+#=======
+
+# Atila
+#Trip Pangandaran by Atila
+
+# Iyang
+#dari bandung saya akan melewati padalarang dan akan memasuki tol padaleunyi
+
+
+# Iqbal 
 
 #Tutor ke Pangandaran
 
