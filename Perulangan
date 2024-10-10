@@ -18,3 +18,5 @@ foreach ($numbers as $number) {
 ?>
 =======
 # Atila
+for i in range(1, 11):
+    print(i)
